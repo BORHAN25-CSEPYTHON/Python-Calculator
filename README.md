@@ -37,3 +37,19 @@ else:
     result = "Invalid operation!"
 
 print("Result:", result)
+
+# 🧮 Simple Python Calculator
+
+A beginner-friendly calculator written in Python. Supports:
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+
+## 🚀 How to Run
+
+Make sure Python is installed.
+
+```bash
+python calculator.py
